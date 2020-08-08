@@ -1,0 +1,16 @@
+{
+  "name": "turtle-graphics-js",
+  "version": "1.0.1",
+  "description": "Interact with a canvas with turtle like methods",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+	  "script.js",
+	  "README.md"
+  ],
+  "keywords": ["turtle", "canvas"],
+  "author": "AdCharity",
+  "license": "ISC"
+}
